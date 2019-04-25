@@ -1,6 +1,6 @@
 # Minesweeper Game
 
-This is a game in which you can win only if you are able to predict where the bombs will be, based on the numbers you uncover.
+This is a game in which you can win only if you are able to predict where the bombs will be, based on the numbers you uncover in every choice you make.
 
 ## Menu Interface
 
