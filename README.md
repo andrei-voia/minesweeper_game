@@ -4,7 +4,7 @@ This is a game in which you can win only if you are able to predict where the bo
 
 ## Menu Interface
 
-This is how the game interface looks. 
+This is how the game interface looks like
 * Here you can choose how big the game will be (width / height), but keep in mind that the matrix will always be square,
 * You can also choose how many bombs will be spawn in the game.
 
