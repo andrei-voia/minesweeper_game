@@ -1,0 +1,19 @@
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.csprojResolveAssemblyReference.cache
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.Form1.resources
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.Cache
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+D:\ANDREI\programe\Visual Studio save\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\bin\Debug\minesweeper.exe.config
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.csprojResolveAssemblyReference.cache
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.Form1.resources
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.Properties.Resources.resources
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.GenerateResource.Cache
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.csproj.CoreCompileInputs.cache
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.exe
+D:\programs\programe saves\save Visual Studio\minesweeper\minesweeper\obj\Debug\minesweeper.pdb
